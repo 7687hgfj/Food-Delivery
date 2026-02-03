@@ -44,10 +44,8 @@ npm run dev
 Frontend runs on `http://localhost:5173` and backend on `http://localhost:5000` by default.
 
 ## Deployment
-- Frontend: Vercel or Netlify
+- Frontend: Render
 - Backend: Render
 
 Deployment link: `TBD`
-
-## Screenshots
-Add screenshots here.
+https://food-delivery-2-yd1o.onrender.com/
